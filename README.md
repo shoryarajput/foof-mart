@@ -1,2 +1,2 @@
-# foof-mart
+# food-mart
 food mart shop
